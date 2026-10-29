@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy-900: #0A1428;
+  --color-navy-800: #112240;
+  --color-navy-700: #1D3557;
+  --color-navy-100: #F0F4F8;
+  --color-gold-600: #C59B27;
+  --color-gold-500: #D4AF37;
+  --color-slate-900: #0F172A;
+  --color-slate-600: #475569;
+  --color-slate-100: #F8FAFC;
+}
+
+@layer base {
+  body {
+    background-color: #F8FAFC;
+    color: #0F172A;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
