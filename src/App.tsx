@@ -20,7 +20,7 @@ export default function App() {
       
       <footer className="bg-navy-900 text-slate-400 py-8 text-center text-xs border-t border-navy-800">
         <p>© {new Date().getFullYear()} Extra Eye Security Ltd. All Rights Reserved.</p>
-        <p className="mt-1 text-slate-500">Prince Clement Haven, Chief David Olunwa Avenue, Amadi-Ama, Port Harcourt[cite: 1].</p>
+        <p className="mt-1 text-slate-500">Prince Clement Haven, Chief David Olunwa Avenue, Amadi-Ama, Port Harcourt.</p>
       </footer>
     </div>
   );

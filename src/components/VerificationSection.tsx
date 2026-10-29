@@ -32,7 +32,7 @@ export const VerificationSection: React.FC = () => {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <span className="text-xs font-bold text-gold-600 uppercase tracking-widest block mb-2">Vetting & Intelligence</span>
           <h2 className="text-2xl sm:text-3xl font-black text-navy-900">Background Vetting & Security Clearances</h2>
-          <p className="text-xs text-slate-600 mt-2">Beyond physical guards, Extra Eye Security provides meticulous investigative and verification protocols[cite: 1].</p>
+          <p className="text-xs text-slate-600 mt-2">Beyond physical guards, Extra Eye Security provides meticulous investigative and verification protocols.</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
